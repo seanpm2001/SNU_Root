@@ -1,0 +1,8 @@
+noMore = input("This file is for COMMENTS ONLY. Do NOT run this file, there is no point. Press [ENTER] key to close")
+'''
+IDEAS
+
+* make a bot that collects file sizes for viewing and downloading with a base2 and base10 switch
+*
+
+'''
