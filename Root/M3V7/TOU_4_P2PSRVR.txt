@@ -1,0 +1,16 @@
+/==========\
+TERMS OF USE
+============\
+SNU P2P SERVER SYSTEM
+====================/
+
+1. Privacy must remain absolute
+When you create a portal, you must provide ethical privacy practices. Companies that violate users privacy with their own portals will be fined, and will have their portal revoked.
+Privacy violations include but are not limited to:
+
+* Recording audio without consent
+* Recording video without consent
+* Collecting user data in any form without consent
+* Reading search history
+
+This system is put in place to prevent abuse of power and to protect users who use the SNU P2P server system.

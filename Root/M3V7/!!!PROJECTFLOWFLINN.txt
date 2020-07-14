@@ -1,0 +1,49 @@
+Project flowflinn
+
+Splitting up website components into thousands of projects
+I can't work on this website alone, it will take the work of lots of people, and it needs to be divided up to work.
+
+A section
+
+Animation (unknown)
+
+R section
+
+S section
+
+Solaris support
+SNU (branding)
+
+T section
+
+Translations (Spanish)
+Translations (Mandarin Chinese)
+Translations (German)
+Translations (Arabic)
+Translations (Japanese)
+Translations (Russian)
+
+U section
+
+Ubuntu support
+Update log (Writing)
+Update log (Management)
+
+V section
+
+Video player - JavaScript (SNU mode)
+Video player - JavaScript (YouTube mode)
+
+W section
+
+Windows 3.1 support
+Windows 95 support
+Windows 98 support
+Windows ME support
+Windows 2000 support
+Windows XP support
+Windows Vista support
+Windows 7 support
+Windows 8 support
+Windows 8.1 support
+Windows 10 support

@@ -1,0 +1,77 @@
+<!-- start of script !-->
+<html>
+<meta>
+	<meta charset="UTF-16">
+</meta>
+<head>
+	<title>Integer test - SNU</title>
+</head>
+<body>
+<HR>
+<H1>HTML5 + JavaScript integer storage and counting test V1</H1>
+<HR>
+<H2>This page is the prototype for view counters, like counters, and other counters around SNU. As of build 1, the counter can go up, but it will reset upon refresh.</H2>
+<HR>
+	<script type="text/javascript">
+	var viewCount = 1;
+	var viewCount1 = localStorage.getItem("viewStorage01");
+	function onClick() {
+		viewCount += 1;
+		viewCount1 += 1;
+		localStorage.setItem("viewStorage01", viewCount1);
+		document.getElementById("viewCount").innerHTML = viewCount;
+	};
+	</script>
+	<button type="button" onClick="onClick()">Click me</button>
+	<p>View count: <a id="viewCount">1</a></p>
+<!-- This script is from Stackoverflow: https://stackoverflow.com/questions/16206322/how-to-get-js-variable-to-retain-value-after-page-refresh
+<html>
+<head>
+    <title>Space Clicker</title>
+</head>
+
+<body>
+    <script type="text/javascript">
+    var clicks = 0;
+    function onClick() {
+        clicks += 1;
+        document.getElementById("clicks").innerHTML = clicks;
+    };
+    </script>
+    <button type="button" onClick="onClick()">Click me</button>
+    <p>Clicks: <a id="clicks">0</a></p>
+
+</body></html>
+!-->
+<HR>
+<H1>Clicker</H1>
+<H2>You will break your mouse if you click 1,000,000,000,000,000 times</H2>
+    <script type="text/javascript">
+    var clicks = 0;
+    function onClick() {
+        clicks += 1;
+        document.getElementById("clicks").innerHTML = clicks;
+    };
+    </script>
+    <button type="button" onClick="onClick()">Click me</button>
+    <p>Clicks: <a id="clicks">0</a></p>
+<HR>
+<H3>End of test section</H3>
+<HR>
+<details><summary><H3>View older versions of this page</H3></summary>
+<H2>Snapshots 1 to 10</H2>
+<H3><button><a href="Int_CounterTest_Snapshot1.html">Snapshot 1</a></button></H3>
+<H3><button><a href="Int_CounterTest_Snapshot2.html">Snapshot 2</a></button></H3>
+<H3><button><a href="Int_CounterTest_Snapshot3.html">Snapshot 3</a></button></H3>
+<H3><button><a href="Int_CounterTest_Snapshot4.html">Snapshot 4</a></button></H3>
+<H3><button><a href="Int_CounterTest_Snapshot5.html">Snapshot 5</a></button></H3>
+<H3><button><a href="Int_CounterTest_Snapshot6.html">Snapshot 6</a></button></H3>
+<H3><button><a href="Int_CounterTest_Snapshot7.html">Snapshot 7</a></button></H3>
+<H3><button><a href="Int_CounterTest_Snapshot8.html">Snapshot 8</a></button></H3>
+<H3><button><a href="Int_CounterTest_Snapshot9.html">Snapshot 9</a></button></H3>
+<H3><button><a href="Int_CounterTest_Snapshot10.html">Snapshot 10</a></button></H3>
+</details>
+<HR>
+</body>
+</html>
+<!-- end of script !-->

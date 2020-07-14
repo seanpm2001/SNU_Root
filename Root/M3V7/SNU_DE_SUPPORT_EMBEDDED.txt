@@ -1,0 +1,186 @@
+===========================================================================
+Desktop environment special support (SNU)
+Last updated: December 30th 2019
+===========================================================================
+
+Special support for SNU directories/Dir icons
+
+===========================================================================
+
+Earlier Windows versions
+
+Not supported (Minimum: Windows NT 3.1)
+
+===========================================================================
+
+Microsoft Windows NT
+
+Not tested
+{
+Windows NT 3.1
+Windows NT 3.2
+Windows NT 3.5
+Windows NT 3.51
+Windows NT 4.0
+Windows NT 5.0
+Windows 2000
+Windows XP
+}
+
+===========================================================================
+
+Microsoft Windows 9x
+
+Not tested
+{
+Windows 95
+Windows 98 First Edition
+Windows 98 Second Edition
+Windows ME (Millennium Edition)
+}
+
+===========================================================================
+
+Microsoft Windows (Server)
+
+Not tested
+{
+Windows Server 2000
+Windows Server 2003
+Windows Server 2003 R2
+Windows Server 2008
+Windows Server 2008 R2
+Windows Server 2012
+Windows Server 2012 R2
+Windows Server 2016
+Windows Server 2019
+}
+
+===========================================================================
+
+Microsoft Windows (Aero)
+
+Not tested
+{
+Windows Vista
+Windows 7
+}
+
+===========================================================================
+
+Microsoft Windows (Metro/Modern)
+
+Windows 8
+Windows 8.1
+Windows 10
+
+===========================================================================
+
+KDE
+
+Not tested
+{
+KDE Desktop Environment 1
+KDE Desktop Environment 1.1
+KDE Desktop Environment 2
+KDE Desktop Environment 2.1
+KDE Desktop Environment 2.2
+KDE Desktop Environment 3
+KDE Desktop Environment 3.1
+KDE Desktop Environment 3.2
+KDE Desktop Environment 3.3
+KDE Desktop Environment 3.4
+KDE Desktop Environment 3.5
+KDE Plasma 4.0
+KDE Plasma 4.10
+KDE Plasma 5
+KDE Plasma 5.10
+}
+
+===========================================================================
+
+MacOS Classic 
+
+Not tested
+{
+Classic 
+# Earliest is MacOS 7
+MacOS 7
+MacOS 8
+MacOS 9
+}
+
+===========================================================================
+
+MacOS Modern
+
+Not tested
+{
+MacOS X 10.0
+MacOS X 10.1
+MacOS X 10.2
+MacOS X 10.3
+MacOS X 10.4
+MacOS X 10.5
+MacOS X 10.6
+MacOS X 10.7
+OS X 10.8
+OS X 10.9
+OS X 10.10
+OS X 10.11
+MacOS 10.12
+MacOS 10.13
+MacOS 10.14
+MacOS 10.15
+}
+
+===========================================================================
+
+GNOME
+
+Not tested
+{
+GNOME 1
+GNOME 2
+GNOME 3
+}
+
+===========================================================================
+
+Cinnamon
+
+Not tested
+{
+Null
+}
+
+===========================================================================
+
+XFCE
+
+Not tested
+{
+Null
+}
+
+===========================================================================
+
+Unity
+
+Not tested
+{
+Null
+}
+
+===========================================================================
+
+CDE
+
+Not tested
+{
+2.3.1
+}
+
+===========================================================================
+End of file
+===========================================================================

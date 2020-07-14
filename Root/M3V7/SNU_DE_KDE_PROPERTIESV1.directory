@@ -1,0 +1,16 @@
+# I don't know the parameters for this yet, so I can't work on it. I want to start better Linux desktop support with SNU, as I will be switching to Linux first, and I decided to start with KDE, as it is my go-to DE.
+dir[!Global]
+dir[!Lobby]
+dir[0d]
+dir[1d]
+dir[2d]
+dir[3d]
+dir[4d]
+dir[accessibility]
+dir[accountSetup]
+{
+
+}
+dir[StartAScript]
+# End of file
+# End

@@ -1,0 +1,46 @@
+progName = Androids.txt
+program|start:
+C: Start of script
+D:--
+ANDROIDS.TXT
+ALGORITHM SOURCES
+D:/end--<
+
+#This page is written in a really weird custom syntax. I am not sure yet if I should make a language out of this. If I do, I will write documentation for the layout
+#/Comment.end()|;
+
+android.output.printBox("Androids.txt")
+
+D:--
+android.output.printBox("Hello World!")
+D:/end--<
+
+#Purpose of Androids.txt
+| Manages robots.txt
+| Manages distro traffic
+| A more advanced robots.txt
+| NOT A CONTENT ALGORITHM FILTER (As of December 16th 2019)
+| Basically robots.txt fro the entire site
+| Also for users
+#/Comment.end()|;
+
+password.domain=perm;
+password.domain.(perm=no-public-access);
+
+<\|:
+Vault
+;|/>
+
+||Permission levels:
+no-public-access = only the user with the content can view. This cannot be downloaded or viewed by anyone else
+public-access-full = everyone can access, download, and view this content
+
+<!-- Content from February 16th 2019 removed, program has new purpose !-->
+}
+C: End of script
+C: This is my web-based algorithm language called <currently unnamed>
+end program|://terminate(Androids.txt);
+/ver|his\
+:*ver1:-Date.Roman.February16th2019|;
+:*ver2:-Date.Roman.December16th2019|;
+//
