@@ -1,0 +1,28 @@
+|=================================================================================================================|
+
+SNU TOS Items
+
+Bot rules
+$0.25 per bot - account suspension for 1 month
+if over 5000 bots - Account suspension for 2 months 
+bots can include:
+view-botting 
+like-botting
+vote-botting
+follow-botting
+sub-botting
+comment-botting
+review-botting
+
+account rules
+user can only up to 15 accounts on 1 IP address network (per home)
+business rules: up to 2000 accounts per IP address network (per small business)
+
+Malware:
+Can ONLY be intentional for Virtual Machines 
+If it leaks out of any supported version of a VM, your account will be suspended for 6 months 
+Ransomware rules:
+In NO WAY can it leak out of a VM. This will lead to a 2 year account suspension 
+reparations must be paid by you. You will most likely get prison-time, even if you are overseas 
+
+|=================================================================================================================|
